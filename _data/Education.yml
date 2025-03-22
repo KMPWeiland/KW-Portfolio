@@ -2,17 +2,24 @@ subject: Education
 listing-order: 1
 icon: "/assets/img/graduation-cap.svg"
 contents:
-  - title: Farvard University, PhD in Computer Science
+  - title: Turing Schoole of Software and Design
     description:
-      - Design of a method to build a probabilistic generative model
-      - Development of model calibration algorithm for cross-domain few-shot learning
-    date: Mar. 2019 - Aug. 2023
-  - title: Stanfort University, MA in Computer Science
+      - An intensive 7-month fullstack software development bootcamp.
+      - The rigorous curriculum covered front-end and back-end technologies, with hands-on projects that simulated real-world development environments. 
+      - Specialized in Ruby on Rails, JavaScript, React, PostreSQL, SQL, ActiveRecord, HTML, CSS.
+      - Workflow and Testing toolsets include Git, Github, VSCode, Postman, RSpec, Pry, SimpleCov, Chrome DevTools, Cypress.
+
+  - title: The London School of Economics, MSc in Culture and Society
     description:
-      - Development of deep learning algorithms for automatically tracking the facial expressions
-      - Optimizing parameter efficient fine tuning for fairness in medical image analysis
-    grade: "**GPA**: `4.1/4.3`"
-    date: Mar. 2014 - Feb. 2016
-  - title: Kambridge University, BA in Electronic Engineering
-    grade: "**GPA**: `3.9/4.3`"
-    date: Mar. 2010 - Feb. 2014
+      - Master of Science in Culture and Society at LSE, an interdisciplinary program exploring how politics, economics, and culture shapes and reflects social life, combining theory with research across identity, globalization, and more 
+      - My dissertation focused on targeting and dismantling roadblocks to student engagement with their primary school education, and was largely centered on working with immigrant and refugee students in London
+  #   date: Mar. 2019 - Aug. 2023
+  # - title: Stanfort University, MA in Computer Science
+  #   description:
+  #     - Development of deep learning algorithms for automatically tracking the facial expressions
+  #     - Optimizing parameter efficient fine tuning for fairness in medical image analysis
+  #   grade: "**GPA**: `4.1/4.3`"
+  #   date: Mar. 2014 - Feb. 2016
+  # - title: Kambridge University, BA in Electronic Engineering
+  #   grade: "**GPA**: `3.9/4.3`"
+  #   date: Mar. 2010 - Feb. 2014
