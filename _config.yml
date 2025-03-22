@@ -2,19 +2,20 @@ title: My Portfolio Site
 profile_img: /assets/img/logo.png
 icon_img: /assets/img/logo.png
 
-name: "Your Name"
-job: "Your Job Title"
+name: Kristin Weiland
+job: Software Developer
 
-phone_number: 111-222-3333
-address: City, Country
-email: email@example.com
-linkedin_username: linkedin
-github_username: github
-instagram_username: instagram
-twitter_username: twitter
-facebook_username: facebook
+# phone_number: 901-907-9946
+address: California, USA
+email: kristinweiland@gmail.com
+linkedin_username: Kristin Weialnd
+github_username: KMPWeiland
+# instagram_username: instagram
+# twitter_username: twitter
+# facebook_username: facebook
 
-theme: jekyll-professional-resume
+theme: spectral_jekyll_theme
+
 
 exclude:
   - _posts/

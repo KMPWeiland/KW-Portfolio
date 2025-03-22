@@ -36,4 +36,11 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 # do not have a Java counterpart.
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
-gem "jekyll-professional-resume", "~> 1.0.1"
+# gem "jekyll-professional-resume", "~> 1.0.1"
+
+# new theme
+# gem "jekyll-theme-spectral", git: "https://github.com/andrewbanchich/spectral-jekyll-theme"
+
+# gem "jekyll-theme-spectral", git: "https://github.com/andrewbanchich/spectral-jekyll-theme.git"
+
+gem "spectral_jekyll_theme", git: "https://github.com/andrewbanchich/spectral-jekyll-theme.git"
