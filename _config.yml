@@ -19,7 +19,7 @@ theme: spectral_jekyll_theme
 
 exclude:
   - _posts/
-  - resources/
+  - resources/ 
   - vendor/
 
 
